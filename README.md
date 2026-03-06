@@ -10,15 +10,15 @@
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## About Me
+## What I Build
 
-- Currently **Senior SDE** at **Foundation Finance Company** — building a loan origination platform
-- Co-built **[Speechef.com](https://www.speechef.com)** — AI-powered speech coaching with 8-dimension analysis
-- Delivered **40% latency reduction** via async Kafka + GraphQL workflow orchestration
-- Achieved **99.99% accuracy** on Cashflo's GST Compliance Engine at CAW Studios
-- Increased platform uptime to **99.95%** using Elastic Stack observability
-- Solved **1000+ DSA problems** across LeetCode and competitive platforms
-- Reach me at **mankugs@hotmail.com**
+- **Distributed microservices** and event-driven architectures — Kafka, GraphQL federation, async orchestration at production scale
+- **AI/ML pipelines** — RAG systems, conversational AI platforms, real-time NLP inference, and speech analysis engines
+- **Fintech infrastructure** — loan origination systems, GST compliance engines, B2B data orchestration
+- **Full-stack products** — Python + TypeScript backends, React frontends, multi-database architectures
+- Shipped **[Speechef.com](https://www.speechef.com)** — AI-powered speech coaching platform, live in production
+- **40% latency cut** · **100% GST accuracy** · **99.95% uptime** — numbers that hold in production
+- **1000+ DSA problems** solved · **mankugs@hotmail.com**
 
 <br clear="right"/>
 
