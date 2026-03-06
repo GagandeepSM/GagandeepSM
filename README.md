@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gagandeep%20SM&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Software%20Engineer&descAlignY=56&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gagandeep%20M&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Software%20Engineer&descAlignY=56&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 - **Full-stack products** — Python + TypeScript backends, React frontends, multi-database architectures
 - Shipped **[Speechef.com](https://www.speechef.com)** — AI-powered speech coaching platform, live in production
 - **40% latency cut** · **100% GST accuracy** · **99.95% uptime** — numbers that hold in production
-- **1000+ DSA problems** solved · **mankugs@hotmail.com**
+- **1000+ DSA problems** solved
 
 <br clear="right"/>
 
@@ -113,7 +113,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igagan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mankugs@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gagandeepsm.github.io)
 
 </div>
