@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gagandeep%20SM&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer&descAlignY=56&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gagandeep%20SM&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Software%20Engineer&descAlignY=56&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=680&lines=7%2B+Years+of+Full+Stack+Engineering;Fintech+%7C+AI+%7C+SaaS+%7C+Distributed+Systems;Python+%E2%80%A2+TypeScript+%E2%80%A2+Django+%E2%80%A2+NestJS+%E2%80%A2+AWS;40%25+Latency+Reduction+%7C+99.99%25+System+Uptime;1000%2B+DSA+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=680&lines=7%2B+Years+of+Software+Engineering;Fintech+%7C+AI+%7C+SaaS+%7C+Distributed+Systems;Python+%E2%80%A2+TypeScript+%E2%80%A2+Django+%E2%80%A2+NestJS+%E2%80%A2+AWS;40%25+Latency+Reduction+%7C+99.99%25+System+Uptime;1000%2B+DSA+Problems+Solved" alt="Typing SVG" />
 </div>
 
 <br/>
